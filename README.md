@@ -8,7 +8,9 @@ Software Engineer
 ## Knowledge and Experience
 **Software Engineering**: Master's degree from the [University of West Florida](https://uwf.edu).
 
-**Work**: Sr. Software Development Engineer at [NASCAR](https://nascar.com) for 7 years.
+**Work**:
+- Sr. Software Development Engineer at [NASCAR](https://nascar.com) for 7 years.
+- Sr. Software Developer at [Vector](https://www.vector-us.com/) since 2024.
 
 **Tech**:<br />
 [![.NET Core](https://img.shields.io/badge/-.NET--Core-777?style=flat&logo=Microsoft&logoColor=0078D7)](https://docs.microsoft.com/en-us/dotnet/core/)
