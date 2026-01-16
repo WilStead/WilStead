@@ -10,7 +10,7 @@ Software Engineer
 
 **Work**:
 - Sr. Software Development Engineer at [NASCAR](https://nascar.com) for 7 years.
-- Sr. Software Developer at [Vector](https://www.vector-us.com/) since 2024.
+- Lead Software Developer at [Vector](https://www.vector-us.com/) since 2024.
 
 **Tech**:<br />
 [![.NET Core](https://img.shields.io/badge/-.NET--Core-777?style=flat&logo=Microsoft&logoColor=0078D7)](https://docs.microsoft.com/en-us/dotnet/core/)
